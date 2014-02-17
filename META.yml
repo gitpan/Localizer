@@ -30,7 +30,7 @@ no_index:
 provides:
   Localizer:
     file: lib/Localizer.pm
-    version: 0.01
+    version: 0.02
   Localizer::BuiltinFunctions:
     file: lib/Localizer/BuiltinFunctions.pm
   Localizer::Dictionary:
@@ -39,8 +39,6 @@ provides:
     file: lib/Localizer/Resource.pm
   Localizer::Scanner::Perl:
     file: lib/Localizer/Scanner/Perl.pm
-  Localizer::Scanner::Xslate:
-    file: lib/Localizer/Scanner/Xslate.pm
   Localizer::Style::Gettext:
     file: lib/Localizer/Style/Gettext.pm
   Localizer::Style::Maketext:
@@ -53,7 +51,7 @@ resources:
   bugtracker: https://github.com/tokuhirom/Localizer/issues
   homepage: https://github.com/tokuhirom/Localizer
   repository: git://github.com/tokuhirom/Localizer.git
-version: 0.01
+version: 0.02
 x_authority: CPAN:TOKUHIROM
 x_contributors:
   - 'moznion <moznion@gmail.com>'

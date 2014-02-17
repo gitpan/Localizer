@@ -60,7 +60,7 @@
    "provides" : {
       "Localizer" : {
          "file" : "lib/Localizer.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "Localizer::BuiltinFunctions" : {
          "file" : "lib/Localizer/BuiltinFunctions.pm"
@@ -73,9 +73,6 @@
       },
       "Localizer::Scanner::Perl" : {
          "file" : "lib/Localizer/Scanner/Perl.pm"
-      },
-      "Localizer::Scanner::Xslate" : {
-         "file" : "lib/Localizer/Scanner/Xslate.pm"
       },
       "Localizer::Style::Gettext" : {
          "file" : "lib/Localizer/Style/Gettext.pm"
@@ -95,7 +92,7 @@
          "web" : "https://github.com/tokuhirom/Localizer"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "CPAN:TOKUHIROM",
    "x_contributors" : [
       "moznion <moznion@gmail.com>"
