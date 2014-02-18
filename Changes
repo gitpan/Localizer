@@ -1,5 +1,9 @@
 Revision history for Perl extension Localizer
 
+0.03 2014-02-18T04:30:17Z
+
+    - split scanner related things to the Localizer-Scanner dist.
+
 0.02 2014-02-17T10:21:35Z
 
     - remove trash from core dist.

@@ -10,9 +10,7 @@ eg/ja.properties
 eg/with_properties_file.pl
 lib/Localizer.pm
 lib/Localizer/BuiltinFunctions.pm
-lib/Localizer/Dictionary.pm
 lib/Localizer/Resource.pm
-lib/Localizer/Scanner/Perl.pm
 lib/Localizer/Style/Gettext.pm
 lib/Localizer/Style/Maketext.pm
 minil.toml
@@ -21,9 +19,6 @@ t/01_basic.t
 t/02_Gettext.t
 t/03_Maketext.t
 t/04_precompile.t
-t/Dictionary.t
-t/Scanner/Perl.t
-t/dat/Scanner/perl.pl
 t/dat/ja.properties
 xt/perlcritic.t
 xt/perlcriticrc
