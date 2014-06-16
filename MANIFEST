@@ -19,7 +19,9 @@ t/01_basic.t
 t/02_Gettext.t
 t/03_Maketext.t
 t/04_precompile.t
+t/05_utf8_flag.t
 t/dat/ja.properties
+t/dat/utf8.properties
 xt/perlcritic.t
 xt/perlcriticrc
 META.yml
